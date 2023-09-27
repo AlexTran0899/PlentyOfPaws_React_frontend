@@ -4,3 +4,4 @@ This is an update to the original app which uses localhost instead of the live u
 <img width="1512" alt="Screenshot 2023-09-27 at 10 42 24 AM" src="https://github.com/AlexTran0899/PlentyOfPaws_React_frontend/assets/76791231/7672eaa8-6dc7-4746-88cc-850b442f19ab">
 
 <img width="1512" alt="Screenshot 2023-09-27 at 10 42 34 AM" src="https://github.com/AlexTran0899/PlentyOfPaws_React_frontend/assets/76791231/842ac8cd-9db1-470e-a3da-a0b9b212e876">
+<img width="1512" alt="image" src="https://github.com/AlexTran0899/PlentyOfPaws_React_frontend/assets/76791231/f0b4f2e2-cc80-4cfd-944a-72601843b46c">
